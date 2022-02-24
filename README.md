@@ -1,1 +1,1 @@
-# Linear-Regression
+# Introduction to Machine Learning
